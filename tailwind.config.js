@@ -12,7 +12,7 @@ export default {
       },
       colors: {
         midnight:'#1F0037', 
-        cyan: '#D0FFE7'
+        lilac: '#D1C3F6'
       }
     },
   },
